@@ -1,0 +1,25 @@
+/* Navbar Section */
+#navbar{
+    flex-direction:column;
+    font-size: 0.85rem;
+    padding:0.7rem 0;
+    height: 80px;
+}
+#navbar ul li a{
+    padding: 0.3rem;
+    margin: 0 0.24rem;
+} 
+
+/* Training Section */
+#training .items{
+    flex-direction: column;
+}
+#training .items .item{
+    width: 100%;
+}
+
+/* Courses Section */
+.courses .course {
+    flex-direction: column;
+    align-items: center;
+}
