@@ -1,2 +1,2 @@
-# Web Gelistirme Örnek #1
+# Web Geliştirme Örnek #1
 Landing Page Projesi Ve Responsive Tasarım
